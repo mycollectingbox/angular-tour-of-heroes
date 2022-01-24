@@ -1,0 +1,81 @@
+{
+  "configVersion": 1,
+  "timestamp": 1643016228196,
+  "index": "https://mycollectingbox.github.io/angular-tour-of-heroes/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://mycollectingbox.github.io/angular-tour-of-heroes/favicon.ico",
+        "https://mycollectingbox.github.io/angular-tour-of-heroes/index.html",
+        "https://mycollectingbox.github.io/angular-tour-of-heroes/main.22480c6490155dd232b9.js",
+        "https://mycollectingbox.github.io/angular-tour-of-heroes/manifest.webmanifest",
+        "https://mycollectingbox.github.io/angular-tour-of-heroes/polyfills.615bc77cc97c7ba413dd.js",
+        "https://mycollectingbox.github.io/angular-tour-of-heroes/runtime.ffff39c52b8523580515.js",
+        "https://mycollectingbox.github.io/angular-tour-of-heroes/styles.ab0361ef4f0b82c44f22.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://mycollectingbox.github.io/angular-tour-of-heroes/assets/icons/icon-128x128.png",
+        "https://mycollectingbox.github.io/angular-tour-of-heroes/assets/icons/icon-144x144.png",
+        "https://mycollectingbox.github.io/angular-tour-of-heroes/assets/icons/icon-152x152.png",
+        "https://mycollectingbox.github.io/angular-tour-of-heroes/assets/icons/icon-192x192.png",
+        "https://mycollectingbox.github.io/angular-tour-of-heroes/assets/icons/icon-384x384.png",
+        "https://mycollectingbox.github.io/angular-tour-of-heroes/assets/icons/icon-512x512.png",
+        "https://mycollectingbox.github.io/angular-tour-of-heroes/assets/icons/icon-72x72.png",
+        "https://mycollectingbox.github.io/angular-tour-of-heroes/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://mycollectingbox.github.io/angular-tour-of-heroes/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://mycollectingbox.github.io/angular-tour-of-heroes/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://mycollectingbox.github.io/angular-tour-of-heroes/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://mycollectingbox.github.io/angular-tour-of-heroes/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://mycollectingbox.github.io/angular-tour-of-heroes/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://mycollectingbox.github.io/angular-tour-of-heroes/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://mycollectingbox.github.io/angular-tour-of-heroes/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://mycollectingbox.github.io/angular-tour-of-heroes/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://mycollectingbox.github.io/angular-tour-of-heroes/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://mycollectingbox.github.io/angular-tour-of-heroes/index.html": "7e16459a5de7db3bedf303b99177ef4f04d709a5",
+    "https://mycollectingbox.github.io/angular-tour-of-heroes/main.22480c6490155dd232b9.js": "99ef6444d0945fc340a19fd53066d7b3befccf80",
+    "https://mycollectingbox.github.io/angular-tour-of-heroes/manifest.webmanifest": "68677af154db1c40b3b3a0b2df88ad674d1da229",
+    "https://mycollectingbox.github.io/angular-tour-of-heroes/polyfills.615bc77cc97c7ba413dd.js": "8037905ea7a700af68552ddd9b6be183e30bd03d",
+    "https://mycollectingbox.github.io/angular-tour-of-heroes/runtime.ffff39c52b8523580515.js": "0c2871f67f8a3dce253a6504923e8d06573103a8",
+    "https://mycollectingbox.github.io/angular-tour-of-heroes/styles.ab0361ef4f0b82c44f22.css": "3ad1e3d6e4dc2d02294e3ddad1c76d4582909b6b"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
